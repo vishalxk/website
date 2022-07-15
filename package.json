@@ -5,7 +5,6 @@
   "main": "index.js",
   "author": "vishalxk",
   "license": "MIT",
-  "type": "module",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build"
@@ -15,7 +14,6 @@
     "popmotion": "^8.5.0"
   },
   "devDependencies": {
-    "live-server": "^1.2.2",
     "snowpack": "^3.8.8"
   }
 }
